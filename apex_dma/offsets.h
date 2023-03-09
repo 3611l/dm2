@@ -48,7 +48,7 @@
 #define OFFSET_AMMO                             0x1644            //[RecvTable.DT_PropSurvival]------>m_ammoInClip
 
 #define OFFSET_ITEM_GLOW                        0x02c0            //m_highlightFunctionBits
-#define OFFSET_ITEM_ID                          0x1628            // item id?
+#define OFFSET_ITEM_ID                          0x1648            // item id?
 #define OFFSET_MODELNAME                        0x0030            //m_ModelName
 #define OFFSET_M_CUSTOMSCRIPTINT                0x1648            //m_customScriptInt
 #define OFFSET_MINIMAP_SCALE                    0x4620            //m_minimapTargetZoomScale, float
